@@ -4,9 +4,9 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container">
-        <Link className="navbar-brand" href="/">
+        <NavLink className="navbar-brand" to="/">
           Recat User
-        </Link>
+        </NavLink>
         <button
           className="navbar-toggler"
           type="button"

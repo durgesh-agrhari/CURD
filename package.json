@@ -1,6 +1,6 @@
 {
   "name": "users",
-  "homepage": "https://durgesh-agrhari.github.io/CRUD-real-time-system",
+  "homepage": "https://durgesh-agrhari.github.io/CRUD",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
